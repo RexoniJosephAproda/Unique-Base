@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-CH" original="UNIQUE Base App.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 4093704352 - Control 18023486 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3921990236">
+          <source>Standard Template</source>
+          <target>Standardvorlage ASC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PurchasePayablesSetupASC - Control Standard Template ASC - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1190251946 - Field 18023486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Standard Template ASC</source>
+          <target>Standardvorlage ASC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PutchasePayableASC - Field Standard Template ASC - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

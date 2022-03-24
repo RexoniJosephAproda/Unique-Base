@@ -1,0 +1,12 @@
+{
+    "gitflow4code.features": [
+        {
+            "name": "feature/Unique_Base_App_Vendor_Integration",
+            "base": "develop"
+        },
+        {
+            "name": "feature/Unique_Base_Updte",
+            "base": "develop"
+        }
+    ]
+}

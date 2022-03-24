@@ -1,0 +1,47 @@
+{
+  "id": "efd3573e-bfa8-4553-b45e-ec57126260e6",
+  "name": "UNIQUE Base App",
+  "publisher": "Aproda AG",
+  "version": "1.0.0.0",
+  "brief": "ASC",
+  "description": "Erweiterung für UNIQUE AG",
+  "privacyStatement": "https://www.alpha-solutions.ch/de",
+  "EULA":"https://www.alpha-solutions.ch/de",
+  "logo": "./Images/logo.png",
+  "help": "http://alphacloud-nav2018-help.azurewebsites.net/main.aspx?lang=de-CH",
+  "contextSensitiveHelpUrl": "http://alphacloud-nav2018-help.azurewebsites.net/main.aspx?lang=de-CH",
+  "url": "https://www.alpha-solutions.ch/de",
+  "screenshots": [],
+  "platform": "19.0.0.0",
+  "application": "19.0.0.0",
+  "target": "Cloud",
+  "features": ["TranslationFile"],
+  
+  "dependencies":[
+    {
+      "id": "a878e400-63c4-4316-a1ff-5c52c03b100d",
+      "name": "Aproda Interface Yokoy (ASER)",
+      "publisher": "Aproda AG",
+      "version": "19.0.0.20"
+    },
+    {
+      "id": "ca3d5715-ac87-48ff-ace2-fc1605e50a69",
+      "name": "SwissSalary 365",
+      "publisher": "SwissSalary Ltd.",
+      "version": "1.5058.1.117"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 51999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  
+  "runtime": "8.0"
+}

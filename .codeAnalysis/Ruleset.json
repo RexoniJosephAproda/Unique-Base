@@ -1,0 +1,26 @@
+{
+    "name": "Name",
+    "description": "Description",
+    "rules": [
+        {
+            "id": "AA0194",
+            "action": "None",
+            "justification": "Page action is used in Events"
+        },
+        {
+            "id": "AW0006",
+            "action": "None",
+            "justification": "Not every page must be searchable"
+        },
+        {
+            "id": "AS0084",
+            "action": "None",
+            "justification": "Ignore ID Range Error"
+        }  ,
+        {
+            "id":"AS0054",
+            "action": "None",
+            "justification": "Mandatory Suffix exist"
+        }      
+    ]
+}
